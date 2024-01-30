@@ -1,2 +1,2 @@
 # CSE439
-CSE439 course
+CSE439 course(MACHINE VISION)
